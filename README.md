@@ -14,7 +14,7 @@ Define a página principal.
 
 Contém:
 
-Um título (<h1>Atividade do Avanze (o gelado)</h1>)
+Um título (Atividade do Avanze (o gelado))
 
 Um container (.container) que organiza 9 elementos (.fotos), simulando as casas do jogo da velha.
 
