@@ -6,16 +6,10 @@ Ele exibe um tabuleiro 3x3 com imagens representando os símbolos X e O.
 ##  📂 Estrutura do Projeto
 .
 ├── index.html       
-
-
 # Estrutura da página
 ├── style.css    
-
-
 # Estilos do layout e das imagens
 └── img/        
-
-
 # Pasta com as imagens X e O
 
 ##  📝 Sobre os Arquivos
