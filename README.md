@@ -37,19 +37,13 @@ Principais características:
 
 ## 🕹️ Visual Esperado  
 
-Aqui está uma prévia do resultado final:  
+- Um **título centralizado** na parte superior da tela  
+- Abaixo, uma **grade 3x3** com imagens alternadas de **X** e **O**  
+- Um layout equilibrado, simples e visualmente agradável  
 
-![Visual do Jogo da Velha](img/preview-jogo-da-velha.png)  
-<!-- 💡 Dica: substitua o nome da imagem acima por sua própria imagem ou GIF, exemplo:
-![Jogo da Velha em execução](https://i.imgur.com/seu_gif.gif)
--->
-
-- Um **título centralizado** no topo  
-- Abaixo, uma **grade 3x3** com imagens de **X** e **O**  
-- Layout organizado e responsivo, simulando um **jogo da velha visual**  
+🧭 O objetivo é apenas **exibir o tabuleiro visualmente**, sem interação por enquanto.  
 
 ---
-
 
 ## 🔮 Possíveis Melhorias  
 
