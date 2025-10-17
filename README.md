@@ -1,48 +1,73 @@
-##   🎮 Jogo da Velha (Atividade Avanze)
+# 🎮 Jogo da Velha — Atividade Avanze  
 
-Este projeto é uma versão visual simples de um jogo da velha, construída em HTML e CSS.
-Ele exibe um tabuleiro 3x3 com imagens representando os símbolos X e O.
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-blue?style=for-the-badge&logo=css3)
+![Projeto](https://img.shields.io/badge/Projeto-Avanze-purple?style=for-the-badge)
 
-##  📂 Estrutura do Projeto
-.
-├── index.html       # Estrutura da página ├── style.css    # Estilos do layout e das imagens └── img/   # Pasta com as imagens X e O
+---
 
-##  📝 Sobre os Arquivos
-index.html
+## 🧠 Sobre o Projeto  
 
-Define a página principal.
+Este projeto é uma versão visual simples do **Jogo da Velha**, desenvolvida como **atividade do Avanze (O Gelado)**.  
+O foco foi aplicar conceitos básicos de **estruturação HTML** e **estilização CSS**, criando um **layout fixo 3x3** com imagens representando os símbolos **X** e **O**.  
 
-Contém:
+---
 
-Um título (Atividade do Avanze (o gelado))
+## 🧩 Sobre os Arquivos  
 
-Um container (.container) que organiza 9 elementos (.fotos), simulando as casas do jogo da velha.
+### 🖼️ index.html  
+Define a estrutura base da página.  
+Contém:  
+- Um **título centralizado**: *“Atividade do Avanze (O Gelado)”*  
+- Um **container (.container)** que organiza **9 elementos (.fotos)**, simulando as casas do tabuleiro  
+- Cada casa exibe uma **imagem (X ou O)**, formando a grade 3x3  
 
-Cada casa exibe uma imagem (X ou O).
+---
 
-style.css
+### 🎨 style.css  
+Responsável por todo o **layout visual** do jogo.  
+Principais características:  
+- Uso de **Flexbox** para organização e centralização dos elementos  
+- `.container`: cria a estrutura em grade com espaçamento uniforme  
+- `.fotos`: representa cada casa do tabuleiro, com **bordas**, **margens** e **ajuste de tamanho automático**  
+- `h1`: centralizado e estilizado com uma fonte limpa e destaque visual  
 
-Define o layout responsivo usando Flexbox:
+---
 
-.container: organiza os itens em linhas, centraliza e dá espaçamento.
+## 🕹️ Visual Esperado  
 
-.fotos: representa cada casa do tabuleiro, com borda, espaçamento interno e imagem ajustada.
+- Um **título centralizado** na parte superior da tela  
+- Abaixo, uma **grade 3x3** com imagens alternadas de **X** e **O**  
+- Um layout equilibrado, simples e visualmente agradável  
 
-h1: centralizado e estilizado com fonte limpa.
+🧭 O objetivo é apenas **exibir o tabuleiro visualmente**, sem interação por enquanto.  
 
-As imagens são redimensionadas automaticamente para não distorcer.
+---
 
+## 🔮 Possíveis Melhorias  
 
-##  🎨 Visual Esperado
+✨ Ideias para evoluir o projeto:  
+- Adicionar **JavaScript** para permitir jogar de verdade  
+- Implementar **verificação automática de vitória** (linhas, colunas e diagonais)  
+- Criar uma **interface interativa** com reinício e placar  
+- Tornar o layout **totalmente responsivo** para celulares  
 
-Um título centralizado.
+---
 
-Abaixo dele, uma grade 3x3 com imagens de X e O distribuídas.
+## 💡 Tecnologias Utilizadas  
 
-##  🔮 Possíveis Melhorias
+| Tecnologia | Função |
+|-------------|--------|
+| 🧱 **HTML5** | Estruturação da página |
+| 🎨 **CSS3** | Estilização e layout visual |
+| 🖼️ **Imagens** | Representação dos símbolos X e O |
 
-Adicionar interatividade com JavaScript para permitir jogar de verdade.
+---
 
-Marcar automaticamente a vitória (linhas, colunas ou diagonais).
+## 👩🏽‍💻Autora  
 
-Melhorar a responsividade em dispositivos móveis.
+**Ana Carolina**  
+📩 [anaacarolinafonsecasouza@gmail.com]
+
+---
